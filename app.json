@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "cam",
+    "description": "This project is really great.",
+    "slug": "cam",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sheetal.cam",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sheetal.cam"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp782605ef8c8c4d3382f53e8280b13461",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.3.0-sdk25.0.0-0c32461b-a7c6-4ddc-b85b-32a80c4f18d9.tar.gz"
+    }
+  }
+}

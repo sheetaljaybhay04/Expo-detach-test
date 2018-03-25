@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="expolib_v1.com.facebook.fresco:expolib_v1-imagepipeline-okhttp3-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expolib_v1-imagepipeline-okhttp3-1.0.1.aar/eb645f790767339621e03bf700aa2fae/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expolib_v1-imagepipeline-okhttp3-1.0.1.aar/eb645f790767339621e03bf700aa2fae/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
